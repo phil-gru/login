@@ -1,2 +1,2 @@
 <?php
-$db = new PDO('mysql:host=localhost;dbname=philipp', 'root', '');
+$db = new PDO('mysql:host=HOSTNAME;dbname=DBNAME', 'root', '');
